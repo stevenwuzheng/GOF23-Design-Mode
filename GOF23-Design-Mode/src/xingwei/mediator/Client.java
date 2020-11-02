@@ -1,4 +1,4 @@
-package jiegou.mediator;
+package xingwei.mediator;
 
 ///中介者模式，如MVC中的C
 ///应用常见: 用来解耦多个同事对象(如同一个界面上多个UI子控件)之间的相互关系，每个对象都持有中介者对象的引用，

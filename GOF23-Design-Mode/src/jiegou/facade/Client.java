@@ -1,5 +1,6 @@
 package jiegou.facade;
 
+//蒙面模式、外观模式
 //开闭原则
 //迪米特法则
 //JDBC封装后，commons提供的DBUtils类，Hibernate提供的工具类，SpringJDBC工具类

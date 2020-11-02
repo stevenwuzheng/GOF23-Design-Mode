@@ -1,4 +1,4 @@
-package jiegou.chainOfResp;
+package xingwei.chainOfResp;
 
 public class LeaveRequest {
     private String personName;

@@ -1,5 +1,6 @@
-package jiegou.iterator;
+package xingwei.iterator;
 
+//迭代器
 public class Client {
     public static void main(String[] args) {
 

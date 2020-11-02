@@ -1,4 +1,4 @@
-package jiegou.iterator;
+package xingwei.iterator;
 
 public interface MyIterator {
     void first(); //将游标指向第一个

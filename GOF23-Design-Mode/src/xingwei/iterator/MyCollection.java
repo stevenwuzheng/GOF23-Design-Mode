@@ -1,4 +1,4 @@
-package jiegou.iterator;
+package xingwei.iterator;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package jiegou.chainOfResp;
+package xingwei.chainOfResp;
 
 //java异常处理机制try/catch就是责任链; spring过滤器机制;
 public class Client {
